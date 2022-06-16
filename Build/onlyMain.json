@@ -3,7 +3,7 @@
 "productName": "shootTesta",
 "dataUrl": "onlyMain.data.unityweb",
 "wasmCodeUrl": "onlyMain.wasm.code.unityweb",
-"wasmFrameworkUrl": "onlyMain.wasm.framework.unityweb",
+"wasmFrameworkUrl": "https://link.jscdn.cn/sharepoint/aHR0cHM6Ly9oZWhhaGEtbXkuc2hhcmVwb2ludC5jb20vOnU6L2cvcGVyc29uYWwvaGVoYWhhX2hlaGFoYV9vbm1pY3Jvc29mdF9jb20vRWR3bU1QLUFxbEZJbTE2LTlIQVY0WXNCT0ZMaXFQT085bFFReW1UbmtPdklrUT9lPU1IYkttbg.unityweb",
 "TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
